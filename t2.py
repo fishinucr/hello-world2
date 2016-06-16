@@ -1,1 +1,1 @@
-print 'XXX'
+print 'hX'
